@@ -1,0 +1,13 @@
+Practical 5: start MongoDB, then run backend and frontend in separate terminals. Register first, then login.
+
+Backend terminal:
+  cd backend
+  npm install
+  npm run dev
+
+Frontend terminal (from the extracted ZIP root, in another terminal):
+  cd P5_User_Register_Login/frontend
+  npm install
+  npm run dev
+
+Open the Vite localhost URL shown in terminal. Keep both terminals open.

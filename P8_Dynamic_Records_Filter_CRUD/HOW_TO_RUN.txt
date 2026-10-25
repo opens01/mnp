@@ -1,0 +1,13 @@
+Practical 8: start MongoDB, then run backend and frontend in separate terminals. Add/edit/delete and search records.
+
+Backend terminal:
+  cd backend
+  npm install
+  npm run dev
+
+Frontend terminal (from the extracted ZIP root, in another terminal):
+  cd P8_Dynamic_Records_Filter_CRUD/frontend
+  npm install
+  npm run dev
+
+Open the Vite localhost URL shown in terminal. Keep both terminals open.

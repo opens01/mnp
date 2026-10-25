@@ -1,0 +1,13 @@
+Practical 7: run backend and frontend in separate terminals. Try invalid email, short password, or age under 18.
+
+Backend terminal:
+  cd backend
+  npm install
+  npm run dev
+
+Frontend terminal (from the extracted ZIP root, in another terminal):
+  cd P7_Form_Validation_Error_Handling/frontend
+  npm install
+  npm run dev
+
+Open the Vite localhost URL shown in terminal. Keep both terminals open.

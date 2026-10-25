@@ -1,0 +1,13 @@
+Practical 3: start MongoDB, then run backend and frontend in separate terminals.
+
+Backend terminal:
+  cd backend
+  npm install
+  npm run dev
+
+Frontend terminal (from the extracted ZIP root, in another terminal):
+  cd P3_MongoDB_Create_Read/frontend
+  npm install
+  npm run dev
+
+Open the Vite localhost URL shown in terminal. Keep both terminals open.

@@ -1,0 +1,13 @@
+Practical 2: run backend and frontend in separate terminals. React fetches /students from Express.
+
+Backend terminal:
+  cd backend
+  npm install
+  npm run dev
+
+Frontend terminal (from the extracted ZIP root, in another terminal):
+  cd P2_REST_API/frontend
+  npm install
+  npm run dev
+
+Open the Vite localhost URL shown in terminal. Keep both terminals open.
